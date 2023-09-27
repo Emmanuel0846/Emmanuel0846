@@ -4,7 +4,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel0846&layout=compact">
 
 <br><br><br><br><br><br><br><br><br><br>
-<h1 width="200px" align="left">Tools and Languages</h1>
+<h1 width="200px" align="left">Technologies and Tools</h1>
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" >
 <img align="left" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" >
 <img align="left" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" >
