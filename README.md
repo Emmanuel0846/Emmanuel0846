@@ -1,2 +1,2 @@
 # Hello, I am Olaoluwa Emmanuel👋
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel0846)](https://github.com/Emmanuel0846/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel0846&show_icons=true&theme=radical)
