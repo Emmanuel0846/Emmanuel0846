@@ -2,8 +2,8 @@
 
 * 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [olaoluwaidowu166@gmail.com](mailto:olaoluwaidowu166@gmail.com)
-* 🚀  I'm currently working on **A tool to solve my day to day problems**
-* 🧠  I'm currently learning Node, Python
+* 🚀  I'm love solving problems**
+* 🧠  I'm currently learning Node, Python and Cyber Security
 * 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Frontend.
 * ⚡  Ask me about Typescript, React, Nodejs.
 
