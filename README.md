@@ -1,9 +1,22 @@
 # Hello, I am Olaoluwa Emmanuel👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Emmanuel0846&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel0846&layout=compact">
+* 🌍  I'm based in nigeria.
+* ✉️  You can contact me at [olaoluwaidowu166@gmail.com](mailto:olaoluwaidowu166@gmail.com)
+* 🚀  I'm currently working on **A tool to solve my day to day problems**
+* 🧠  I'm currently learning Node, Python
+* 🤝  I'm open to collaborating on Full Fledge Project / Full Stack Application / Startup / Frontend.
+* ⚡  Ask me about Typescript, React, Nodejs.
 
-<br> <br><br><br><br><br><br><br><br><br>
+<a href="https://twitter.com/iam_OEmmanuel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/iam_OEmmanuel?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
+/></a><a href="https://www.github.com/Emmanuel0846" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Emmanuel0846?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a><a href="https://www.youtube.com/channel/UCVbi0DoX-aV-nEUs1kCgYQQ">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCVbi0DoX-aV-nEUs1kCgYQQ?color=red&logo=youtube&style=for-the-badge&labelColor=ce4630">
+</a>
+<a href="https://www.youtube.com/channel/UCVbi0DoX-aV-nEUs1kCgYQQ">
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVbi0DoX-aV-nEUs1kCgYQQ?color=blue&label=View%20count&logo=youtube&style=for-the-badge&labelColor=0b689d">
+</a>
+
 <h1 width="200px" align="left">Technologies and Tools</h1>
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" >
 <img align="left" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" >
@@ -36,6 +49,17 @@
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+
+<br><br><br>
+# My GitHub Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Emmanuel0846&show_icons=true&theme=radical">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmanuel0846&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmanuel0846&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmanuel0846&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmanuel0846&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuel0846&theme=dracula)
 
 
 
